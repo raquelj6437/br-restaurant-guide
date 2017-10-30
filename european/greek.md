@@ -2,5 +2,8 @@
 ## European --> Greek
 ---
 Select a restaurant:
-## Omonia Cafe  
-## Something Greek
+## [Omonia Cafe](http://omoniacafe.com/)  
+## [Something Greek](https://www.somethinggreek.com/)
+
+Back to European  
+Start Over
